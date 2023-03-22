@@ -4,7 +4,7 @@
 이미지
 
 주요 개발환경
-java , OracleDB , eclipse , SQL Developer 
+<b>java , OracleDB , eclipse , SQL Developer</b>
 
 주요기능
 
