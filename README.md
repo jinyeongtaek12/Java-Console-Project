@@ -1,8 +1,11 @@
 # Java-Console-Project
 <h1>Java-Tour</h1>
 
-[image](https://user-images.githubusercontent.com/110976504/227116761-cb685beb-e9ba-4e2c-aea7-4aa187833d19.png)
-
+<p dir="auto">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/110976504/227116761-cb685beb-e9ba-4e2c-aea7-4aa187833d19.png">
+  <img src="https://user-images.githubusercontent.com/110976504/227116761-cb685beb-e9ba-4e2c-aea7-4aa187833d19.png" style="max-width: 100%;"> == $0
+  </a>
+</p>
 
 주요 개발환경
 <b>java , OracleDB , eclipse , SQL Developer</b>
